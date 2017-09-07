@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/final garden .unity
+  isLoaded: 1
+  isActive: 1

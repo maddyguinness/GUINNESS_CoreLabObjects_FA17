@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "garden.data.unityweb",
+"asmCodeUrl": "garden.asm.code.unityweb",
+"asmMemoryUrl": "garden.asm.memory.unityweb",
+"asmFrameworkUrl": "garden.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
